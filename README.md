@@ -6,7 +6,7 @@ I build at the intersection of **machine learning and systems** — training mod
 
 ### 🥦 Distributed Edge AI — Real-Time Produce Inspection
 Real-time produce-quality inspection running distributed **YOLOv11n** inference across **two NVIDIA Jetson Orin Nano** edge devices. Trained on a merged 26-class, ~10,750-image dataset; **ZeroMQ** PAIR sockets over direct Ethernet, **Flask** web streaming, and **Google Cloud Storage** integration. I owned the training pipeline, dataset aggregation, and model versioning — and debugged the real-world OOM, socket desync, and camera/inference contention along the way.<br>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_TO_REPO)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jp8577/UCR-Course-Sentiment-Analysis.git)
 
 ### ⚙️ Rust Compiler — From Source to IR
 A multi-phase compiler written in **Rust** — lexing and parsing through **IR code generation**, with control flow (`while`, `if/else`, `break/continue`) and a working symbol table. A from-scratch look at the machinery languages are built on.<br>
