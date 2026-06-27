@@ -10,7 +10,7 @@ Real-time produce-quality inspection running distributed **YOLOv11n** inference 
 
 ### ⚙️ Rust Compiler — From Source to IR
 A multi-phase compiler written in **Rust** — lexing and parsing through **IR code generation**, with control flow (`while`, `if/else`, `break/continue`) and a working symbol table. A from-scratch look at the machinery languages are built on.<br>
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_TO_REPO)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DoubleClik/Rust-Compiler.git)
 
 ### 🧠 NLP From Scratch
 NLP components built without leaning on high-level libraries — to understand the math, not just call an API. **Word2Vec (SGNS)** in PyTorch, a logistic-regression sentiment classifier, n-gram language models, and a statistical spellchecker (Damerau-Levenshtein + bigram LM).<br>
